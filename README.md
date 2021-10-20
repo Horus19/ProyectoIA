@@ -15,6 +15,8 @@
 - Link del dataset: https://www.marketwatch.com/investing/index/spx/download-data
 - Modelos: Decision Tree Regressor, Random Forest Regressor, Support Vector Regressor, Multilayer Perceptron (Deep Neural Networks).
 
-[(code)](https://github.com/Horus19/ProyectoIA/blob/master/Final_Notebook.ipynb) [(video)](https://www.youtube.com/watch?v=FiUdFWZhLoo&ab_channel=TheCamacho2012) [(Repositorio](https://github.com/Horus19/ProyectoIA)
+[(code)](https://github.com/Horus19/ProyectoIA/blob/master/Final_Notebook.ipynb) 
+[(video)](https://www.youtube.com/watch?v=FiUdFWZhLoo&ab_channel=TheCamacho2012) 
+[(Repositorio)](https://github.com/Horus19/ProyectoIA)
 
 ---
